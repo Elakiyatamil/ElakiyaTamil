@@ -29,10 +29,15 @@
   <img src="https://img.shields.io/badge/HTML5-0A0F0D?style=for-the-badge&logo=html5&logoColor=00FF00&labelColor=0A0F0D" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0A0F0D?style=for-the-badge&logo=css3&logoColor=00FF00&labelColor=0A0F0D" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-0A0F0D?style=for-the-badge&logo=javascript&logoColor=00FF00&labelColor=0A0F0D" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-0A0F0D?style=for-the-badge&logo=openjdk&logoColor=00FF00&labelColor=0A0F0D" alt="Java" />
+  <img src="https://img.shields.io/badge/C-0A0F0D?style=for-the-badge&logo=c&logoColor=00FF00&labelColor=0A0F0D" alt="C" />
+  <br>
   <img src="https://img.shields.io/badge/React-0A0F0D?style=for-the-badge&logo=react&logoColor=00FF00&labelColor=0A0F0D" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0A0F0D?style=for-the-badge&logo=nextdotjs&logoColor=00FF00&labelColor=0A0F0D" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-0A0F0D?style=for-the-badge&logo=nodedotjs&logoColor=00FF00&labelColor=0A0F0D" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-0A0F0D?style=for-the-badge&logo=express&logoColor=00FF00&labelColor=0A0F0D" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0F0D?style=for-the-badge&logo=postgresql&logoColor=00FF00&labelColor=0A0F0D" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0A0F0D?style=for-the-badge&logo=mysql&logoColor=00FF00&labelColor=0A0F0D" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-0A0F0D?style=for-the-badge&logo=mongodb&logoColor=00FF00&labelColor=0A0F0D" alt="MongoDB" />
 </p>
 
