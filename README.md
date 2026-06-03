@@ -7,11 +7,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=Elakiyatamil&color=00ff00&style=for-the-badge&label=SYSTEM+ACCESSES&labelColor=0a0f0d" alt="System Accesses" />
+  <img src="https://komarev.com/ghpvc/?username=Elakiyatamil&color=00ff00&style=for-the-badge&label=SYSTEM+ACCESSES&labelColor=0a0f0d" alt="System Accesses" />
   &nbsp;&nbsp;
   <a href="mailto:tamilelakiya004@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL_ME-0A0F0D?style=for-the-badge&logo=gmail&logoColor=00FF00&labelColor=0A0F0D" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elakiyatamil/ElakiyaTamil/output/github-snake-dark.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Elakiyatamil/ElakiyaTamil/output/github-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
@@ -45,10 +52,34 @@
 
 <p align="center">
   <a href="https://github.com/Elakiyatamil">
-    <img src="https://github-readme-stats.vercel.app/api?username=Elakiyatamil&show_icons=true&bg_color=0a0f0d&title_color=00FF00&text_color=c9d1d9&icon_color=00FF00&border_color=00FF00&hide_border=false" alt="GitHub Stats" height="195" />
+    <img src="https://github-readme-stats-eight.vercel.app/api?username=Elakiyatamil&theme=matrix&show_icons=true" alt="GitHub Stats" height="195" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Elakiyatamil">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elakiyatamil&theme=matrix&background=0a0f0d&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=c9d1d9&dates=a9b1d6" alt="GitHub Streak" height="195" />
+    <img src="https://streak-stats.demolab.com/?user=Elakiyatamil&theme=matrix" alt="GitHub Streak" height="195" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Elakiyatamil">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elakiyatamil&bg_color=0a0f0d&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=false" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
+---
+
+### 🕹️ RETRO PLAYGROUND (PLAYABLE ARCADE)
+
+<p align="center">
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_SNAKE-0A0F0D?style=for-the-badge&logo=retroarch&logoColor=00FF00&labelColor=0A0F0D" alt="Snake" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://freepacman.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_PACMAN-0A0F0D?style=for-the-badge&logo=retroarch&logoColor=00FF00&labelColor=0A0F0D" alt="Pacman" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_TETRIS-0A0F0D?style=for-the-badge&logo=retroarch&logoColor=00FF00&labelColor=0A0F0D" alt="Tetris" />
   </a>
 </p>
