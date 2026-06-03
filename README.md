@@ -56,9 +56,7 @@
 ### 📊 GITHUB STATS & METRICS
 
 <p align="center">
-  <a href="https://github.com/Elakiyatamil">
-    <img src="https://github-readme-stats-one.vercel.app/api?username=Elakiyatamil&theme=matrix&show_icons=true" alt="GitHub Stats" height="195" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Elakiyatamil/ElakiyaTamil/main/stats.svg" alt="GitHub Stats" height="195" />
   &nbsp;&nbsp;
   <a href="https://github.com/Elakiyatamil">
     <img src="https://streak-stats.demolab.com/?user=Elakiyatamil&theme=matrix" alt="GitHub Streak" height="195" />
