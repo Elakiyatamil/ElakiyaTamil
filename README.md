@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/Elakiyatamil">
-    <img src="https://github-readme-stats-eight.vercel.app/api?username=Elakiyatamil&theme=matrix&show_icons=true" alt="GitHub Stats" height="195" />
+    <img src="https://github-readme-stats-one.vercel.app/api?username=Elakiyatamil&theme=matrix&show_icons=true" alt="GitHub Stats" height="195" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Elakiyatamil">
